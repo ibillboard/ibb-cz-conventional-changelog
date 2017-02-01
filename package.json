@@ -1,5 +1,5 @@
 {
-  "name": "cz-conventional-changelog",
+  "name": "ibb-cz-conventional-changelog",
   "version": "0.0.0-semantically-released.0",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "author": "Jim Cummins <jimthedev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "conventional-commit-types": "^2.0.0",
+    "ibb-conventional-commit-types": "git://github.com:ibillboard/ibb-conventional-commit-types.git#commit-ish",
     "lodash.map": "^4.5.1",
     "longest": "^1.0.1",
     "pad-right": "^0.2.2",

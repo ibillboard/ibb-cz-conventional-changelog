@@ -46,7 +46,7 @@ module.exports = function (options) {
         {
           type: 'list',
           name: 'type',
-          message: 'Select the type of change that you\'re committing:',
+          message: 'SSSelect the type of change that you\'re committing:',
           choices: choices
         }, {
           type: 'input',

@@ -16,7 +16,7 @@
   "author": "Jim Cummins <jimthedev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ibb-conventional-commit-types": "git://github.com:ibillboard/ibb-conventional-commit-types.git#commit-ish",
+    "ibb-conventional-commit-types": "git://github.com:ibillboard/ibb-conventional-commit-types.git",
     "lodash.map": "^4.5.1",
     "longest": "^1.0.1",
     "pad-right": "^0.2.2",
